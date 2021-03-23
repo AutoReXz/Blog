@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+h1{color:red;font-size:20px;}
+</style>
+</head>
+<body>
+<header>
+  <h1>YOI</h1>
+</header>
+<nav>
+  <ul>
+      <li><a herf="https://www.youtube.com/">Youtube</a></li>
+      <li><p>Menggokil</p></li>
+  </ul>
+</nav>
+<main>
+<article><h1>Kucing</h1> 
+<p>Anggora</p></article>
+</main>
+<footer>
+</footer>
+</body>
+</html>
